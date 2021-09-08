@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### My name is Feri Andika
 - 🔭 I’m currently studying in Bunda Mulia University
 - 🌱 I’m currently learning Data Science 
 - 🤔 I’m looking for help with machine learning
