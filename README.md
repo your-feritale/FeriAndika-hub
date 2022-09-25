@@ -8,3 +8,9 @@
   <li>😄 Pronouns: He / His</li>
   <li>⚡ Fun fact: I am me</li>
 </ul>
+
+<ul style="list-style-type:square;">
+  <li>Email     : feri14andika@gmail.com</li>
+  <li>Linkedin  : Feri Andika</li>
+  <li>Instagram : @it.s_ferified</li>
+</ul>
